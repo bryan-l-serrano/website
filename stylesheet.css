@@ -3,6 +3,8 @@
 	border:2px solid black;
 	background-color:#183149;
 	height:75px;
+	width:100%;
+
 }
 #title {
 	color:white;
@@ -64,6 +66,4 @@ table{
 	height:250px;
 	text-align:center;
 	vertical-align:middle;
-
-
 }
